@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "nombres": "Renzo",
+    "apellidos": "Rodriguez",
+    "doc_iden": "749125322",
+    "numero": "20024876",
+    "correo": "renzoivanrh@gmail.com",
+    "contraseña": "1234",
+    "rol": "administrador",
+    "foto": "/https://pbs.twimg.com/media/FJlDejjWYAEsugS.jpg"
+  },
+  {
+    "id": 2,
+    "nombres": "Joel",
+    "apellidos": "Rodriguez",
+    "doc_iden": "123123",
+    "numero": "20024876",
+    "correo": "pepe@gmail.com",
+    "contraseña": "4321",
+    "rol": "alumno",
+    "foto": "/alumno.jpg"
+  },
+  {
+    "id": 3,
+    "nombres": "Marko",
+    "apellidos": "Rodriguez",
+    "doc_iden": "74912320",
+    "numero": "74912532",
+    "correo": "markoro2000@gmail.com",
+    "contraseña": "4321",
+    "rol": "alumno",
+    "foto": "/alumno.jpg"
+  },
+  {
+    "id": 4,
+    "nombres": "Eduardo",
+    "apellidos": "Rodriguez",
+    "doc_iden": "123123",
+    "numero": "12031312",
+    "correo": "eduardo@gmail.com",
+    "contraseña": "54321",
+    "rol": "alumno",
+    "foto": "/alumno.jpg"
+  }
+]
